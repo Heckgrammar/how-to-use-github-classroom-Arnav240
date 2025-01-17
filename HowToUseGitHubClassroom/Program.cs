@@ -5,6 +5,8 @@
         static void Main(string[] args)
         {
             // Enter your code where there is a prompt or to complete a task
+            Console.WriteLine("Hello world");
+                
             // Commit your changes and push to github
             // Use the test data if given
             // Screenshot your program running with the test data given (if available)
